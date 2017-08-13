@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0mLoading project definition from /Users/carybourgeois/Documents/Training/DSE-Spark-Streaming/project[0m
+[0m[[0minfo[0m] [0mSet current project to DSE-Spark-Streaming (in build file:/Users/carybourgeois/Documents/Training/DSE-Spark-Streaming/)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/carybourgeois/Documents/Training/DSE-Spark-Streaming/target/scala-2.10/classes...[0m
+[0m[[0minfo[0m] [0mRunning LoadFromStream [0m
+-------------------------------------------
+Time: 1422997765000 ms
+-------------------------------------------
+
